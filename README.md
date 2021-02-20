@@ -1,6 +1,4 @@
 <br />
-![years](https://badges.pufler.dev/years/ElijahHallera) 
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElijahHallera)
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
