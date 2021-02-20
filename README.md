@@ -1,10 +1,5 @@
 <br />
- 
-<!--
-**Jonathan-Welham/Jonathan-Welham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-![visitors](https://badges.pufler.dev/visits/ElijahHallera/ElijahHallera)![years](https://badges.pufler.dev/years/ElijahHallera) 
+![years](https://badges.pufler.dev/years/ElijahHallera) 
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElijahHallera)
