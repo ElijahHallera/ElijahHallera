@@ -3,6 +3,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ElijahHallera)
 <!--(https://github.com/anuraghazra/github-readme-stats) -->
 
+## Welcome to my Github page!
+  Currently a software engineering student working on Game Development projects, Graphics Programming, and Algorithms.
 
 ## Languages and Tools:
 
@@ -18,5 +20,3 @@
 
 <br />
 <br />
-
-- Currently working on Game Development projects, Graphics Programming, and Algorithms
