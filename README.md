@@ -18,3 +18,5 @@
 
 <br />
 <br />
+
+- Currently working on Game Development projects, Graphics Programming, and Algorithms
